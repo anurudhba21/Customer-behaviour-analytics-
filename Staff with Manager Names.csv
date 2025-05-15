@@ -1,0 +1,11 @@
+staff_name,staff_email,manager_name
+Fabiola,fabiola.jackson@bikes.shop,NULL
+Mireya,mireya.copeland@bikes.shop,Fabiola
+Genna,genna.serrano@bikes.shop,Mireya
+Virgie,virgie.wiggins@bikes.shop,Mireya
+Jannette,jannette.david@bikes.shop,Fabiola
+Marcelene,marcelene.boyer@bikes.shop,Jannette
+Venita,venita.daniel@bikes.shop,Jannette
+Kali,kali.vargas@bikes.shop,Fabiola
+Layla,layla.terrell@bikes.shop,Venita
+Bernardine,bernardine.houston@bikes.shop,Venita
